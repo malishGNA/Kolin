@@ -16,12 +16,9 @@ class MainActivity : AppCompatActivity() {
 
         val result =findViewById<TextView>(R.id.result)
         val operation = findViewById<TextView>(R.id.operation)
-
         val b_cos  = findViewById<TextView>(R.id.cos)
         val b_pi = findViewById<TextView>(R.id.pi)
         val b_e  = findViewById<TextView>(R.id.e)
-
-
         val b_equally = findViewById<TextView>(R.id.equally)
 
         val b_xy = findViewById<TextView>(R.id.xy)
@@ -66,11 +63,9 @@ class MainActivity : AppCompatActivity() {
         b_cos.setOnClickListener { operation.append("cos(") }
         b_pi.setOnClickListener { operation.append("pi") }
         b_e.setOnClickListener { operation.append("e") }
-
         b_sin.setOnClickListener { operation.append("sin(") }
         b_sqrt.setOnClickListener { operation.append("sqrt(") }
         b_ln.setOnClickListener { operation.append("ln(") }
-
         b_division.setOnClickListener { operation.append("/") }
         b_multiplication.setOnClickListener { operation.append("*") }
         b_minus.setOnClickListener { operation.append("-") }
