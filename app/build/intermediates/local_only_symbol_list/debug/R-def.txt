@@ -53,7 +53,7 @@ string five
 string four
 string left_bracket
 string ln
-string log2
+string log
 string minus
 string multiplication
 string nine

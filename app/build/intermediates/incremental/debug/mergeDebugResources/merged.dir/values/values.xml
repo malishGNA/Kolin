@@ -2008,7 +2008,7 @@
     <string name="item_view_role_description">Tab</string>
     <string name="left_bracket">(</string>
     <string name="ln">ln</string>
-    <string name="log2">log2</string>
+    <string name="log">log</string>
     <string name="m3_exceed_max_badge_text_suffix" translatable="false"><ns2:g example="Some te" id="part of a long text">%1$s</ns2:g><ns2:g example="…" id="suffix">%2$s</ns2:g></string>
     <string name="m3_ref_typeface_brand_medium" translatable="false">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular" translatable="false">sans-serif</string>
@@ -2143,7 +2143,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="three">3</string>
     <string name="two">2</string>
-    <string name="x_y">x^y</string>
+    <string name="x_y">^</string>
     <string name="zero">0</string>
     <string name="zero3">000</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

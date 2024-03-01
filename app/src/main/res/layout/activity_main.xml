@@ -62,7 +62,7 @@
             </TextView>
             <TextView
                 style="@style/Operations_Sci"
-                android:text="@string/log2"
+                android:text="@string/log"
                 android:id="@+id/b_log2">
             </TextView>
             <TextView

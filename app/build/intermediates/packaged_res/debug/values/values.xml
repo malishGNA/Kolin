@@ -16,7 +16,7 @@
     <string name="four">4</string>
     <string name="left_bracket">(</string>
     <string name="ln">ln</string>
-    <string name="log2">log2</string>
+    <string name="log">log</string>
     <string name="minus">-</string>
     <string name="multiplication">*</string>
     <string name="nine">9</string>
@@ -31,7 +31,7 @@
     <string name="sqrt">sqrt</string>
     <string name="three">3</string>
     <string name="two">2</string>
-    <string name="x_y">x^y</string>
+    <string name="x_y">^</string>
     <string name="zero">0</string>
     <string name="zero3">000</string>
     <style name="Base.Theme.Calc" parent="Theme.Material3.DayNight.NoActionBar">

@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">calc</string>
     <string name="ac">AC</string>
-    <string name="x_y">x^y</string>
+    <string name="x_y">^</string>
     <string name="back">back</string>
     <string name="sqrt">sqrt</string>
-    <string name="log2">log2</string>
+    <string name="log">log</string>
     <string name="ln">ln</string>
     <string name="left_bracket">(</string>
     <string name="b_rightb">)</string>
